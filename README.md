@@ -1,113 +1,91 @@
-Hi, I'm Suyash Khare 👋
+<h1 align="center">⚡ Suyash Khare ⚡</h1>
+<h3 align="center">🔐 VAPT | Web Security | Offensive Security</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=Breaking+Web+Apps+💥;Securing+Systems+🔐;160%2B+Machines+Rooted+💀;Cybersecurity+Practitioner" />
+</p>---
+
+🧠 WHO AM I
 
 🔐 Final-Year B.Tech Cyber Security Student (VAPT Specialist)
-🛡️ Focus: Web Application Security | Penetration Testing | OSINT
-📍 India
+⚔️ Offensive mindset → Think like attacker, defend like engineer
+🛠️ Built security tools: Vulnerability Scanner • Honeypot • Recon Scripts
+🔥 160+ machines rooted on TryHackMe
 
+---
 
-🚀 Professional Summary
+🚀 HIGHLIGHTS
 
-Cybersecurity student specializing in Vulnerability Assessment and Penetration Testing (VAPT) with hands-on experience in identifying and exploiting OWASP Top 10 vulnerabilities.
+- 🧪 Completed 160+ TryHackMe Rooms
+- 💀 Gained root access on 160+ machines
+- 🛠️ Developed Flask-based vulnerability scanner
+- 🕵️ Built honeypot to capture attacker behavior
+- 👮 Delivered training to law enforcement (ASI level)
 
-Experienced in using tools like Burp Suite, Nmap, Metasploit, and developing custom security tools such as vulnerability scanners and honeypots.
+---
 
-Seeking opportunities to apply practical cybersecurity skills in real-world environments.
+⚔️ TECH STACK
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,mysql" />
+</p>Tools:
+Burp Suite • Nmap • Metasploit • Wireshark • Nessus
 
-🧠 Skills
+Recon & OSINT:
+Amass • Subfinder • Dirsearch
 
-🔹 Cybersecurity Tools
+---
 
-Metasploit • Burp Suite • Nmap • Wireshark • Nessus • Amass • Subfinder • Dirsearch
+🔥 PROJECTS
 
-🔹 Languages & Scripting
+🔍 Vulnerability Scanner
 
-Python • SQL • HTML
+✔ Detects XSS, SQLi, CSRF, Clickjacking
+✔ Multi-threaded scanning engine
+✔ Generates professional PDF reports
 
-🔹 Operating Systems
+---
 
-Kali Linux • Windows
+🕵️ Honeypot System
 
-🔹 Core Concepts
+✔ Captures attacker IP & credentials
+✔ Logs real attack behavior
+✔ Simulates real-world attack surface
 
-OWASP Top 10 • VAPT • Network Security • HTTP/HTTPS • OSINT
+---
 
+🌐 Port Scanner
 
-💼 Experience
+✔ Fast reconnaissance tool
+✔ Identifies open ports & services
 
-🏢 Cyber Security & Digital Forensics Intern
+---
 
-State Cyber Cell Headquarters (Bhopal) — July 2025
+📊 GITHUB STATS
 
-- Built a Flask-based web vulnerability scanner detecting XSS, SQLi, and more
-- Delivered cybersecurity & forensic training to Assistant Sub Inspectors (ASIs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suyash9466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash9466&theme=tokyonight&hide_border=true"/>
+</p>---
 
+🐍 CONTRIBUTION GRAPH
 
-🏢 Cyber Security Intern
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suyash9466/suyash9466/output/github-contribution-grid-snake.svg" />
+</p>---
 
-The Red Users — January 2025 (Remote)
+🌐 CONNECT
 
-- Completed OWASP WebGoat labs (XSS, Injection, Auth flaws, Access Control)
-- Identified and mitigated real-world web vulnerabilities
+📧 suyashkharee@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/suyash-khare
+🌍 Portfolio: https://suyash9466.github.io/portfolio
 
+---
 
-🏢 Cybersecurity Intern
+⚡ CURRENT MISSION
 
-Global Defensive Security — Oct–Nov 2024 (Remote)
+- 🔧 Improving vulnerability scanner (automation + accuracy)
+- 🕵️ Enhancing honeypot with real-time logging
+- ✍️ Writing CTF writeups (TryHackMe)
 
-- Performed vulnerability assessment using Nmap & Burp Suite
-- Delivered professional security assessment reports
+---
 
-
-🔐 Projects
-
-🔍 Website Vulnerability Scanner
-
-- Multi-threaded scanner detecting: XSS, SQLi, CSRF, Clickjacking
-- Generates professional PDF reports
-- Tech: Python, Flask, ReportLab
-
-
-🕵️ Basic Honeypot
-
-- Captures attacker IPs & credentials
-- Logs malicious activity for analysis
-- Simulates real attack environment
-
-
-🌐 Port Scanner Script
-
-- Built using Python sockets
-- Identifies open ports & services
-- Useful for reconnaissance phase
-
-
-🧪 Practical Learning
-
-- Completed 160+ TryHackMe rooms
-- Achieved root access on 160+ machines
-- Strong hands-on skills in:
-  - Enumeration
-  - Exploitation
-  - Privilege Escalation
-
-
-📜 Certifications
-
-- EC-Council – Cybersecurity for Businesses
-- EC-Council – SQL Injection Attacks
-- EC-Council – In-house Hacking Lab
-- Bitten Tech – Ethical Hacking Bundle
-- Global Defensive Security – Ethical Hacking Training
-
-
-🌐 Connect With Me
-
-- 📧 Email: suyashkharee@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/suyash-khare
-- 💻 GitHub: https://github.com/suyash9466
-- 🌍 Portfolio: https://suyash9466.github.io/portfolio/
-
-
-⚡ Current Focus
-- Writing CTF Writeups (TryHackMe)
+<p align="center">💀 Hack. Learn. Repeat.</p>
