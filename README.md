@@ -1,7 +1,9 @@
 <h1 align="center">⚡ Suyash Khare ⚡</h1>
 <h3 align="center">🔐 VAPT | Web Security | Offensive Security</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=Breaking+Web+Apps+💥;Securing+Systems+🔐;160%2B+Machines+Rooted+💀;Cybersecurity+Practitioner" />
-</p>---
+</p>
+
+---
 
 🧠 WHO AM I
 
