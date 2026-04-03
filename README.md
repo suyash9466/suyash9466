@@ -104,7 +104,9 @@ Amass • Subfinder • Dirsearch
 🌐 CONNECT
 
 📧 Email: suyashkharee@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/suyash-khare
+
 🌍 Portfolio: https://suyash9466.github.io/portfolio
 
 ---
