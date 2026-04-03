@@ -1,26 +1,26 @@
-<h1 align="center">⚡ Suyash Khare ⚡</h1>
-<h3 align="center">🔐 VAPT | Web Security | Offensive Security</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=Breaking+Web+Apps+💥;Securing+Systems+🔐;160%2B+Machines+Rooted+💀;Cybersecurity+Practitioner" />
+<h1 align="center">Suyash Khare</h1>
+<h3 align="center">🔐 Cybersecurity | VAPT | Web Security</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Vulnerability+Assessment+%26+Penetration+Testing;Web+Application+Security;Offensive+Security+Practitioner" />
 </p>
 
 ---
 
-🧠 WHO AM I
+🧠 ABOUT ME
 
-🔐 Final-Year B.Tech Cyber Security Student (VAPT Specialist)
-⚔️ Offensive mindset → Think like attacker, defend like engineer
-🛠️ Built security tools: Vulnerability Scanner • Honeypot • Recon Scripts
-🔥 160+ machines rooted on TryHackMe
+🎓 Final-Year B.Tech Cyber Security Student (VAPT Specialist)
+🛡️ Skilled in identifying and exploiting OWASP Top 10 vulnerabilities
+⚔️ Hands-on experience in real-world web application security testing
+🎯 Goal: Become a Penetration Tester / Security Researcher
 
 ---
 
 🚀 HIGHLIGHTS
 
-- 🧪 Completed 160+ TryHackMe Rooms
+- 🧪 Completed 160+ TryHackMe rooms
 - 💀 Gained root access on 160+ machines
-- 🛠️ Developed Flask-based vulnerability scanner
-- 🕵️ Built honeypot to capture attacker behavior
-- 👮 Delivered training to law enforcement (ASI level)
+- 🛠️ Developed custom security tools (Scanner & Honeypot)
+- 👮 Delivered cybersecurity training to law enforcement (ASI level)
+- 📄 Created professional VAPT assessment reports
 
 ---
 
@@ -38,60 +38,83 @@ Amass • Subfinder • Dirsearch
 
 🔥 PROJECTS
 
-🔍 Vulnerability Scanner
+🔍 Website Vulnerability Scanner
 
-✔ Detects XSS, SQLi, CSRF, Clickjacking
-✔ Multi-threaded scanning engine
-✔ Generates professional PDF reports
+- Detects: XSS, SQL Injection, CSRF, Clickjacking
+- Multi-threaded scanning engine
+- Generates automated PDF reports
 
 ---
 
-🕵️ Honeypot System
+🕵️ Basic Honeypot
 
-✔ Captures attacker IP & credentials
-✔ Logs real attack behavior
-✔ Simulates real-world attack surface
+- Captures attacker IP addresses & credentials
+- Logs real-world attack behavior
+- Helps analyze intrusion patterns
 
 ---
 
 🌐 Port Scanner
 
-✔ Fast reconnaissance tool
-✔ Identifies open ports & services
+- Built using Python sockets
+- Performs fast network reconnaissance
+- Identifies open ports & services
 
 ---
 
-## 📊 GITHUB STATS  
+🧪 REAL-WORLD OUTPUT
+
+🔍 Vulnerability Detection
+
+- Identified XSS & SQLi in test environments
+- Automated vulnerability reporting
+
+🕵️ Honeypot Logs
+
+- Captured malicious login attempts
+- Logged attacker IP & user-agent data
+
+💀 Practical Skills
+
+- Enumeration
+- Exploitation
+- Privilege Escalation
+
+---
+
+📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyash9466&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suyash9466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash9466&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH  
+📜 CERTIFICATIONS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suyash9466/suyash9466/output/github-contribution-grid-snake.svg" />
-</p>
+- EC-Council – Cybersecurity for Businesses
+- EC-Council – SQL Injection Attacks
+- EC-Council – In-house Hacking Lab
+- Bitten Tech – Ethical Hacking Bundle
+- Global Defensive Security – Ethical Hacking Training
 
 ---
 
 🌐 CONNECT
 
-📧 suyashkharee@gmail.com
+📧 Email: suyashkharee@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/suyash-khare
 🌍 Portfolio: https://suyash9466.github.io/portfolio
 
 ---
 
-⚡ CURRENT MISSION
+⚡ CURRENT FOCUS
 
-- 🔧 Improving vulnerability scanner (automation + accuracy)
-- 🕵️ Enhancing honeypot with real-time logging
+- 🔧 Enhancing vulnerability scanner (automation + accuracy)
+- 🕵️ Improving honeypot with real-time logging
 - ✍️ Writing CTF writeups (TryHackMe)
 
 ---
 
-<p align="center">💀 Hack. Learn. Repeat.</p>
+<p align="center">"Think like an attacker. Defend like an engineer."</p>
