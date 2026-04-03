@@ -61,18 +61,22 @@ Amass • Subfinder • Dirsearch
 
 ---
 
-📊 GITHUB STATS
+## 📊 GITHUB STATS  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyash9466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suyash9466&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash9466&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
 
-🐍 CONTRIBUTION GRAPH
+---
+
+## 🐍 CONTRIBUTION GRAPH  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suyash9466/suyash9466/output/github-contribution-grid-snake.svg" />
-</p>---
+</p>
+
+---
 
 🌐 CONNECT
 
