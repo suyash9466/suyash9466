@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,mysql" />
 </p>Tools:
-Burp Suite • Nmap • Metasploit • Wireshark • Nessus
+Burp Suite • Nmap • Metasploit • Wireshark  • Nessus
 
 Recon & OSINT:
 Amass • Subfinder • Dirsearch
