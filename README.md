@@ -1,52 +1,58 @@
 <h1 align="center">Suyash Khare</h1>
-<h3 align="center">🔐 Cybersecurity | VAPT | Web Security</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Vulnerability+Assessment+%26+Penetration+Testing;Web+Application+Security;Offensive+Security+Practitioner" />
+<h3 align="center">🔐 Cybersecurity | VAPT | Web Security</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Vulnerability+Assessment+%26+Penetration+Testing;Web+Application+Security;Offensive+Security+Practitioner;Security+Research+%26+Bug+Hunting" />
 </p>
 
 ---
 
-🧠 ABOUT ME
+# 🧠 ABOUT ME
 
-🎓 Final-Year B.Tech Cyber Security Student (VAPT Specialist)
-🛡️ Skilled in identifying and exploiting OWASP Top 10 vulnerabilities
-⚔️ Hands-on experience in real-world web application security testing
+🎓 Final-Year B.Tech Cyber Security Student  
+🛡️ Focused on Web Application Security, VAPT, and Security Research  
+⚔️ Hands-on experience in vulnerability assessment and penetration testing  
+🔍 Interested in real-world vulnerability discovery and bug hunting  
 🎯 Goal: Become a Penetration Tester / Security Researcher
 
 ---
 
-🚀 HIGHLIGHTS
+# 🚀 HIGHLIGHTS
 
 - 🧪 Completed 160+ TryHackMe rooms
-- 💀 Gained root access on 160+ machines
-- 🛠️ Developed custom security tools (Scanner & Honeypot)
-- 👮 Delivered cybersecurity training to law enforcement (ASI level)
+- 💀 Gained root/user access on 160+ machines
+- 🛠️ Developed custom security tools & automation projects
+- 🕵️ Created real-world vulnerability writeups & security research
+- 👮 Delivered cybersecurity awareness/training sessions
 - 📄 Created professional VAPT assessment reports
 
 ---
 
-⚔️ TECH STACK
+# ⚔️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,mysql" />
-</p>Tools:
-Burp Suite • Nmap • Metasploit • Wireshark  • Nessus
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,mysql,php,bash" />
+</p>
 
-Recon & OSINT:
-Amass • Subfinder • Dirsearch
+## Tools
+Burp Suite • Nmap • Metasploit • Wireshark • Nessus • SQLMap
+
+## Recon & OSINT
+Amass • Subfinder • Dirsearch • ffuf • Gobuster
 
 ---
 
-🔥 PROJECTS
+# 🔥 PROJECTS
 
-🔍 Website Vulnerability Scanner
+## 🔍 Website Vulnerability Scanner
 
-- Detects: XSS, SQL Injection, CSRF, Clickjacking
+- Detects XSS, SQL Injection, CSRF, Clickjacking
 - Multi-threaded scanning engine
-- Generates automated PDF reports
+- Automated vulnerability reporting
 
 ---
 
-🕵️ Basic Honeypot
+## 🕵️ Honeypot Based Intrusion Detection
 
 - Captures attacker IP addresses & credentials
 - Logs real-world attack behavior
@@ -54,7 +60,7 @@ Amass • Subfinder • Dirsearch
 
 ---
 
-🌐 Port Scanner
+## 🌐 Port Scanner
 
 - Built using Python sockets
 - Performs fast network reconnaissance
@@ -62,36 +68,30 @@ Amass • Subfinder • Dirsearch
 
 ---
 
-🧪 REAL-WORLD OUTPUT
+# 🧪 SECURITY RESEARCH & WRITEUPS
 
-🔍 Vulnerability Detection
-
-- Identified XSS & SQLi in test environments
-- Automated vulnerability reporting
-
-🕵️ Honeypot Logs
-
-- Captured malicious login attempts
-- Logged attacker IP & user-agent data
-
-💀 Practical Skills
-
-- Enumeration
-- Exploitation
-- Privilege Escalation
+- Business Logic Flaws
+- CSRF Vulnerabilities
+- Authentication Weaknesses
+- Web Application Misconfigurations
+- TryHackMe & CTF Writeups
+- Real-world Security Findings
 
 ---
 
-📊 GITHUB STATS
+# 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suyash9466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash9466&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-📜 CERTIFICATIONS
+# 📜 CERTIFICATIONS
 
 - EC-Council – Cybersecurity for Businesses
 - EC-Council – SQL Injection Attacks
@@ -101,7 +101,7 @@ Amass • Subfinder • Dirsearch
 
 ---
 
-🌐 CONNECT
+# 🌐 CONNECT
 
 📧 Email: suyashkharee@gmail.com
 
@@ -109,14 +109,20 @@ Amass • Subfinder • Dirsearch
 
 🌍 Portfolio: https://suyash9466.github.io/portfolio
 
----
-
-⚡ CURRENT FOCUS
-
-- 🔧 Enhancing vulnerability scanner (automation + accuracy)
-- 🕵️ Improving honeypot with real-time logging
-- ✍️ Writing CTF writeups (TryHackMe)
+🐙 GitHub: https://github.com/suyash9466
 
 ---
 
-<p align="center">"Think like an attacker. Defend like an engineer."</p>
+# ⚡ CURRENT FOCUS
+
+- 🔧 Enhancing vulnerability scanner automation
+- 🕵️ Improving honeypot logging & monitoring
+- ✍️ Writing bug bounty & CTF writeups
+- 📚 Learning advanced web exploitation techniques
+- 🎯 Practicing real-world VAPT methodologies
+
+---
+
+<p align="center">
+  <i>"Think like an attacker. Defend like an engineer."</i>
+</p>
